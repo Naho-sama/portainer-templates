@@ -4586,7 +4586,7 @@
       ],
       "platform": "linux",
       "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/mongo.png",
-      "image": "mongo:latest",
+      "image": "mongo:4.4.6",
       "ports": [
         "27017/tcp"
       ],
